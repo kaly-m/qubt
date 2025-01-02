@@ -3,7 +3,7 @@
 ############################
 
 baseURL: "https://kaly-m.github.io/qubt"
-title: qubt
+title: portefolio
 
 ############################
 ## MISC
@@ -11,5 +11,5 @@ title: qubt
 
 enableEmoji: true
 disableKinds: ["taxonomy", "term"]
-languageCode: "en-us"
+languageCode: "fr"
 enableRobotsTXT: true

@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: kaly-m
+  name: Kelian Michiel
   image: author.png
-  greeting: "Your new Qubt site :tada:"
+  greeting: "Bienvenue sur mon portefolio !! :tada:"
   icon: ":wave:"
 
 ############################
@@ -13,12 +13,13 @@ author:
 ############################
 
 links:
-  - github: https://github.com/kaly-m/qubt
-  - link: https://github.com/kaly-m/qubt#readme
+  - github: https://github.com/kaly-m/
+  - linkedin: https://www.linkedin.com/in/kelian-michiel-00a2a027a/
+  - email: mailto:kelian.michiel@gmail.com
+  # - link: https://github.com/kaly-m/qubt#readme
   # - website: 
   # - x-twitter: 
   # - mastodon: 
-  # - linkedin: 
   # - instagram: 
   # - reddit: 
   # - telegram: 
@@ -26,7 +27,6 @@ links:
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
   # - discord: 
   # - orcid: 
   # - slack: 
@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: qubt
+title: portefolio
 description: "Site build with Qubt & Hugo"
 images:
   - thumbnail.png
