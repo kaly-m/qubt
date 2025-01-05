@@ -1,26 +1,42 @@
 ---
 title: Vote en ligne
-subtitle: "Voter en ligne c'est sympa, plus besoin de se déplacer ! :rainbow:"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-date: 2023-11-22
+subtitle: "Plus besoin de se déplacer ! :rainbow:"
+summary: De nos jours, la communication interne aux entreprises est primordiale. En tant que responsable, les différentes manières de récupérer ces informations méritent un certain approfondissement. Nous nous pencherons donc sur les référendums.
+
+date: 2024-10-10
 cardimage: vote.png
 featureimage: vote.png
-caption: "Image caption :tada:"
-authors:
-  - John Doe: author.jpeg
+caption: "NiOuiNiNon"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere :zap:.
+## Contexte 
 
-**Heading**
-- List item 1
-- List item 2
-- List item 3
+De nos jours, la **communication interne** aux entreprises est primordiale. Nous le remarquons notamment via tous les logiciels de communications qui fluctuent sur le marché (Workplace, Jamespot, Zoom..). En tant que chef d’entreprise, réussir à **collecter des informations** pour pouvoir s’organiser est un des principaux piliers pour faire fonctionner son entreprise **efficacement**. Dès lors, les différentes manières de récupérer ces informations méritent un certain approfondissement.
 
-Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et. Duis auctor, lectus nec vehicula suscipit, sapien erat pellentesque augue, pulvinar tempus sapien leo sit amet erat. Proin porta, mauris vitae aliquet consectetur, erat eros maximus turpis, at suscipit nibh urna id leo. Nunc commodo sed diam ut aliquet. Duis eros mi, ullamcorper sit amet ex id, aliquet dignissim libero. Fusce at turpis eget nisl feugiat cursus eget vitae elit. Integer auctor enim vel orci fringilla facilisis. Praesent ac euismod tellus.
+Bien que ces moyens de communication soient **nombreux** et **diversifiés**, ils sont aussi **génériques** et **impersonnels** car disponibles à tous. Il serait alors sensé que de vouloir une application créée spécialement pour soi, répondant précisément à **nos exigences**. Là est le but de notre projet, créer une application de **sondage anonyme** selon des **critères bien définis**.
 
-Cras ligula velit, aliquet ac orci dapibus, molestie ultricies libero. Donec at bibendum est. Phasellus vulputate dapibus quam vel accumsan. Curabitur at felis euismod, lobortis urna id, lobortis dolor. Cras tortor ligula, euismod quis lacus faucibus, condimentum fringilla dolor. Mauris in maximus nisi. Phasellus facilisis lacus quis mi cursus, a ornare mi maximus. Nullam nunc lacus, tincidunt varius risus nec, pellentesque vulputate ligula. Etiam id purus et tortor porta mattis. Donec id sapien nulla. Vivamus at malesuada tellus, id ultricies ante. Maecenas ullamcorper mi massa, at rutrum risus aliquet a. Donec sem tortor, molestie quis ex a, faucibus commodo augue. Morbi convallis sem vel tellus facilisis, et sodales felis consequat. Aliquam ut ante tristique, volutpat lectus vestibulum, egestas sapien.
+Notre projet permet donc de **répondre au besoin** de notre client. Celui-ci nécessite une application personnalisée afin de permettre à son personnel de donner leur avis sur différents sujets. Ainsi, leur **opinion** sera **entendue** et la cohésion d'entreprise sera nettement améliorée.
 
-Donec tellus est, faucibus eget ultricies ac, posuere non augue. Fusce ultrices lectus quis nunc lacinia, non tincidunt lectus ultrices. Morbi sodales nisi at felis luctus, eu convallis tortor commodo. Morbi tristique nibh neque, vel tristique dolor laoreet eget. Phasellus felis erat, mattis at suscipit id, faucibus in dolor. In vitae odio at lectus tincidunt dignissim. Fusce risus nisl, hendrerit a ultricies vitae, porta id sapien. Nam elit nunc, hendrerit ut sem quis, ultrices varius leo. Nullam eget lectus in sapien venenatis iaculis at at turpis. Etiam iaculis magna porttitor augue tempus suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam suscipit nibh leo, in pellentesque urna luctus et. Duis diam ipsum, posuere nec tellus sit amet, dignissim feugiat massa. Etiam ut sollicitudin lorem. Quisque commodo libero non mauris viverra malesuada. Morbi vitae auctor felis.
+Ce projet a été réalisé dans un **cadre académique** sur une durée de **4 mois** (sept-dec) avec une équipe de **5 personnes** constituée d'un **Product Owner**, un **Scrum Master** et de **3 développeurs**. En effet, nous avons travaillé tout du long via les **méthodes agiles**. J'étais pour ma part Product Owner, je me suis donc chargé de la **communication** entre le **client** et notre **équipe de développement**.
 
-Maecenas ac dignissim dolor. Sed vitae nisl vel ante rutrum tincidunt ac et diam. Integer id dignissim quam. Vestibulum quis enim sit amet tellus tincidunt sagittis ut vitae nunc. Sed hendrerit, quam ut fermentum imperdiet, augue purus cursus felis, in ultricies elit mauris in risus. Morbi hendrerit imperdiet vehicula. Etiam porttitor magna eu quam laoreet ullamcorper. Etiam a erat ante. Curabitur pharetra, lacus in porttitor cursus, libero lacus consectetur dui, sit amet auctor tellus magna et enim. Pellentesque tristique molestie fringilla. Vivamus sit amet tincidunt quam. Morbi eu nisi quam. Nunc ultrices vel sem sit amet aliquam.
+## Méthodes de travail
+
+Concernant les méthodes de travail, comme cité ci-dessus, nous avons travaillé selon les **méthodes agiles**. Nous avions donc des **contraintes de rendu** à chaque **sprint** qui étaient à intervalle de 3-4 semaines.
+
+Nous travaillons via le **logiciel de versionning git** pour ouvrir des **issues**, administrer le projet via l'**issue board**, les **milestones**, les **users story**, etc.
+
+## Compétences travaillées
+
+Durant ce projet j'ai pu développer mes compétences en **java** mais aussi en **qualité de développement**.
+
+J'ai notamment dû (principalement): 
+- Manipuler les sockets java pour le serveur et le client
+- Refactorer du code pour respecter les principes SOLID et implémenter des patterns de GOF par la même occasion
+- manipuler GIT selon les bonnes pratiques
+- travailler en équipe selon les méthodes agile (communication conséquente)
+ 
+ (secondaire) : 
+ - manipuler Spring boot (côté interface graphique)
+ - manipuler JDBC pour communiquer avec la base de données
+
+ Ce projet fut très enrichissant de par les nombreuses compétences abordées. En effet, une large palette de fonctionnalités a été développée durant ces 4 mois.

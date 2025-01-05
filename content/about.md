@@ -3,19 +3,25 @@
 type: misc
 
 # change these
-jobTitle: Développeur
+jobTitle: Développeur Système Embarqué
 name: Kelian Michiel
 bio: true
 icon: ":coffee:"
 ---
 
-{{< figArray subfolder="images" figCaption="A nice figure caption :wave:" >}}
+✨ Je suis un jeune étudiant en pleine effervescence intellectuelle. Un concentré de motivation et de créativité qui travaille toujours dans la bonne humeur et qui se donne les moyens d'aller au bout de ses idées. Ma curiosité et mon esprit d'analyse sont mes atouts pour réussir dans mes projets. ✨
 
-Je suis un jeune étudiant en pleine effervescence intellectuelle. Un concentré de motivation et de créativité qui travaille toujours dans la bonne humeur et qui se donne les moyens d'aller au bout de ses idées. Ma curiosité et mon esprit d'analyse sont mes atouts pour réussir dans mes projets. 
+💻 Mon parcours 💻
 
-Actuellement Étudiant en 2ème année de BUT informatique, je suis à la recherche d’une alternance sur Montpellier pour une durée de 18 mois (début janvier 2025).
-Lien de ma formation : https://iut-montpellier-sete.edu.umontpellier.fr/files/2023/12/INFO_BUT_RV_2024.pdf
+J’ai commencé en 2021 une école préparatoire intégrée où j’ai appris à coder en C et en python. Suite à cette première année, j’ai su que l’informatique était ce qui me plaisait le plus. J’ai cependant décidé de prendre une année de césure en Australie où j’ai pu parfaire mon anglais et découvrir de nouvelles cultures. A mon retour en France j’étais déterminé à reprendre les études pour pouvoir travailler dans un domaine que j’aime et qui m’anime. Je me suis alors réorienté en BUT informatique pour enrichir mes connaissances dans ce milieu. Grâce à cette formation, j’apprends de nouvelles choses de jour en jour et compte bien continuer sur ma lancée.
 
-À la suite de ma première année d'école préparatoire intégrée à Polytech, j'ai pris la décision de prendre une année de césure en Australie. L'intérêt de cette année fut de me recentrer sur mes objectifs, parfaire mon anglais, devenir autonome et découvrir une nouvelle culture.
-Cela fais maintenant 2 ans que j'ai repris mes études au sein de l'IUT et je n'ai jamais été autant passionné par mon travail que durant ces deux dernières années. 
-Le domaine de l'informatique est un domaine immensément vaste et enrichissant. Je ne cesse d'apprendre des choses de jour en jour et compte bien continuer sur ma lancée.
+
+![CV MICHIEL Kelian 2025](./cv/CV_MICHIEL_2025.jpeg "CV")
+
+Je suis intéressé par le développement, mais surtout par le fonctionnement des machines. La robotique m’a toujours passionné et quoi de mieux que les systèmes embarqués pour combiner le développement et le fonctionnement des machines ? ✨
+
+En effet, j'ai toujours été attiré par ce milieu. Mon souhait serait de continuer mes études après mon BUT, et de développer des compétences dans des langages bas niveau pour pouvoir développer des systèmes embarqués notamment en Rust. J’aimerais continuer mon parcours en effectuant un master en robotique par exemple. 📚
+
+
+
+

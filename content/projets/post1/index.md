@@ -1,31 +1,34 @@
 ---
 title: Raspberry Pi 5
 subtitle: "Un pied dans l'embarqué :zap:"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-date: 2023-11-24
+summary: Un raspberry Pi c'est quoi ? C'est un ordinateur portatif qui tourne sur une carte de circuit imprimé nous permettant de réaliser pas mal de petit projets intéressants, comme héberger un serveur web.
+date: 2024-12-03
 cardimage: raspbery.jpg
 featureimage: raspbery.jpg
 caption: Raspberry Pi 5
 ---
-Use the shortcode "figArray" to add images to your blog post. Add your images to a subfolder. Call the figArray shortcode using the following syntax:
 
-```
-{{</* figArray subfolder="<subfoldername>" figCaption="Some caption" numCols=2 */>}}
-```
-Both "figCaption" and "numCols" are optional. The shortcode will try to guess the best number of columns to use for the array of figures if "numCols" is not passed.
-You will need one subfolder containing images per call to the shortcode. The image files need to be one of the following types: png, jpg, jpeg or webp.
+## Contexte
 
-{{< figArray subfolder="images" figCaption="A nice figure caption :wave:" >}}
+Ce projet est intimement lié au développement de mon [serveur en C](../post2/). En effet, mon **serveur** en C développé, il me fallait maintenant un moyen pour le **déployer** et le **rendre disponible** au "grand" public (constitué de mes camarades de classe). Je me suis alors renseigné. Lors de mes recherches, je suis tombé sur le **raspberry Pi**, ordinateur portatif qui semblait parfait pour faire aboutir mon projet. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere :zap:.
+J'ai alors passé le cap et passé commande tout en continuant de m'**informer** sur les possibles utilisations de celui-ci. Je me suis alors rendu compte que le raspberry Pi était la porte ouverte pour les **systèmes embarqués**, discipline pour laquelle je suis tombé amoureux étant donné mon intéressement envers la robotique. Je tenais la ma porte d'entrée vers un métier qui semblait me correspondre : **Développeur Système embarqué**.
 
-**Heading**
-- List item 1
-- List item 2
-- List item 3
+J'ai donc réalisé l'entièreté de ce projet **seul** étant donné que c'est un projet personnel qui s'est vu naître miraculeusement en poursuivant des recherches qui étaient à la base pour un autre projet. Je compte en faire un stockage externe accessible via Internet qui serait sensiblement identique à un **cloud storage**. J'ai récemment acheté un micro, qui va me permettre d'en faire un **assistant vocal** pour contrôler mes leds par la voix. Je trouve toujours une nouvelle utilisation pour mon raspberry Pi 5 et cela est **fascinant**.
 
-Cras ligula velit, aliquet ac orci dapibus, molestie ultricies libero. Donec at bibendum est. Phasellus vulputate dapibus quam vel accumsan. Curabitur at felis euismod, lobortis urna id, lobortis dolor. Cras tortor ligula, euismod quis lacus faucibus, condimentum fringilla dolor. Mauris in maximus nisi. Phasellus facilisis lacus quis mi cursus, a ornare mi maximus. Nullam nunc lacus, tincidunt varius risus nec, pellentesque vulputate ligula. Etiam id purus et tortor porta mattis. Donec id sapien nulla. Vivamus at malesuada tellus, id ultricies ante. Maecenas ullamcorper mi massa, at rutrum risus aliquet a. Donec sem tortor, molestie quis ex a, faucibus commodo augue. Morbi convallis sem vel tellus facilisis, et sodales felis consequat. Aliquam ut ante tristique, volutpat lectus vestibulum, egestas sapien.
+## Méthodes de travail
 
-Donec tellus est, faucibus eget ultricies ac, posuere non augue. Fusce ultrices lectus quis nunc lacinia, non tincidunt lectus ultrices. Morbi sodales nisi at felis luctus, eu convallis tortor commodo. Morbi tristique nibh neque, vel tristique dolor laoreet eget. Phasellus felis erat, mattis at suscipit id, faucibus in dolor. In vitae odio at lectus tincidunt dignissim. Fusce risus nisl, hendrerit a ultricies vitae, porta id sapien. Nam elit nunc, hendrerit ut sem quis, ultrices varius leo. Nullam eget lectus in sapien venenatis iaculis at at turpis. Etiam iaculis magna porttitor augue tempus suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam suscipit nibh leo, in pellentesque urna luctus et. Duis diam ipsum, posuere nec tellus sit amet, dignissim feugiat massa. Etiam ut sollicitudin lorem. Quisque commodo libero non mauris viverra malesuada. Morbi vitae auctor felis.
+{{< figArray subfolder="images" >}}
+En l'occurrence, mon plus grand ami fut Internet. Mes seules connaissances sur le sujet étaient que je devais lui adresser une adresse **ip publique** si je voulais le rendre accessible. J'ai alors du chercher le reste en **autodidacte**. J'ai donc effectué des tests, répété certaines manipulations et j'ai fini par trouver ce qu'il me fallait.
 
-Maecenas ac dignissim dolor. Sed vitae nisl vel ante rutrum tincidunt ac et diam. Integer id dignissim quam. Vestibulum quis enim sit amet tellus tincidunt sagittis ut vitae nunc. Sed hendrerit, quam ut fermentum imperdiet, augue purus cursus felis, in ultricies elit mauris in risus. Morbi hendrerit imperdiet vehicula. Etiam porttitor magna eu quam laoreet ullamcorper. Etiam a erat ante. Curabitur pharetra, lacus in porttitor cursus, libero lacus consectetur dui, sit amet auctor tellus magna et enim. Pellentesque tristique molestie fringilla. Vivamus sit amet tincidunt quam. Morbi eu nisi quam. Nunc ultrices vel sem sit amet aliquam.
+## Compétences travaillées
+
+Durant ce projet, j'ai beaucoup appris côté *hardware* et **protocoles de communication**.
+
+J'ai notamment dû : 
+- Flasher une carte sd avec raspberry PI OS dessus.
+- Monter et installer le raspberry Pi 5, cela consiste à faire des branchements, installer la pate thermique, installer le ventilo, monter le boitier.
+- adresser une adresse ip publique à mon raspberry Pi (j'ai rencontré des complications car mon FAI n'en fournissaient pas, j'ai du changer de FAI avant de pouvoir continuer mon projet..)
+- Me connecter et manipuler mon raspberry via les commandes ssh (un peu d'administration système pour créer des users etc.).
+
+Pour conclure, j'ai abordé de nombreuses compétences qui ne sont pas forcément vues dans ma formation. Ce projet m'a grandement enrichi et je ne compte pas m'arrêter là.
