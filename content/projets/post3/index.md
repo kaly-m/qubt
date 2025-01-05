@@ -21,6 +21,8 @@ Ce projet a été réalisé dans un **cadre académique** sur une durée de **4 
 
 ## Méthodes de travail
 
+{{< figArray subfolder="images" figCaption="principe de fonctionnement méthode agile" >}}
+
 Concernant les méthodes de travail, comme cité ci-dessus, nous avons travaillé selon les **méthodes agiles**. Nous avions donc des **contraintes de rendu** à chaque **sprint** qui étaient à intervalle de 3-4 semaines.
 
 Nous travaillons via le **logiciel de versionning git** pour ouvrir des **issues**, administrer le projet via l'**issue board**, les **milestones**, les **users story**, etc.
