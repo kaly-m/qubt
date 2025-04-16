@@ -15,8 +15,22 @@ icon: ":coffee:"
 
 J’ai commencé en 2021 une école préparatoire intégrée où j’ai appris à coder en C et en python. Suite à cette première année, j’ai su que l’informatique était ce qui me plaisait le plus. J’ai cependant décidé de prendre une année de césure en Australie où j’ai pu parfaire mon anglais et découvrir de nouvelles cultures. A mon retour en France j’étais déterminé à reprendre les études pour pouvoir travailler dans un domaine que j’aime et qui m’anime. Je me suis alors réorienté en BUT informatique pour enrichir mes connaissances dans ce milieu. Grâce à cette formation, j’apprends de nouvelles choses de jour en jour et compte bien continuer sur ma lancée.
 
+<center>
+<a href="../cv/CV_MICHIEL_2025.pdf" download style="
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #5d6d7e;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  font-family: sans-serif;
+">
+  📥 Télécharger mon CV ↴
+</a>
+</center>
 
-![CV MICHIEL Kelian 2025](../cv/CV_MICHIEL_2025.jpeg)
+![CV MICHIEL Kelian 2025](../cv/CV_MICHIEL_2025.png)
 
 Je suis intéressé par le développement, mais surtout par le fonctionnement des machines. La robotique m’a toujours passionné et quoi de mieux que les systèmes embarqués pour combiner le développement et le fonctionnement des machines ? ✨
 

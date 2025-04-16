@@ -5,7 +5,7 @@
 author:
   name: Kelian Michiel
   image: author.png
-  greeting: "Bienvenue sur mon portefolio !! :tada:"
+  greeting: "Bienvenue sur mon portfolio !! :tada:"
   icon: ":wave:"
 
 ############################
@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: portefolio
+title: portfolio
 description: "Site build with Qubt & Hugo"
 images:
   - thumbnail.png

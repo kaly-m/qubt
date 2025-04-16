@@ -3,7 +3,7 @@
 ############################
 
 baseURL: "https://kaly-m.github.io/qubt"
-title: portefolio
+title: portfolio
 
 ############################
 ## MISC
@@ -13,3 +13,8 @@ enableEmoji: true
 disableKinds: ["taxonomy", "term"]
 languageCode: "fr"
 enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
