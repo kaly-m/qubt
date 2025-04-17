@@ -2,7 +2,7 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://kaly-m.github.io/qubt"
+baseURL: "https://kaly-m.github.io/portfolio"
 title: portfolio
 
 ############################
@@ -10,10 +10,11 @@ title: portfolio
 ############################
 
 enableEmoji: true
-disableKinds: ["taxonomy", "term"]
+disableKinds: ["taxonomy", "term"] # keep them minimalist
 languageCode: "fr"
-enableRobotsTXT: true
+enableRobotsTXT: true # authorize web crawler
 
+# enable raw html
 markup:
   goldmark:
     renderer:
