@@ -3,15 +3,15 @@
 ############################
 
 main:
-- name: Accueil
-  url: /
-  weight: 10
-- name: À propos
-  url: /about/
-  weight: 20
-- name: Projets
-  url: /projets/
-  weight: 30
-- name: Apprentissages
-  url: /apprentissages/
-  weight: 40
+    - name: Accueil
+      url: /
+      weight: 10
+    - name: À propos
+      url: /a-propos/
+      weight: 20
+    - name: Projets
+      url: /projets/
+      weight: 30
+    - name: Apprentissages
+      url: /apprentissages/
+      weight: 40

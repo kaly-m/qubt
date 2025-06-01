@@ -9,7 +9,7 @@ featureimage: HC11.JPG
 caption: "Microcontrôleurs MC68HC11"
 ---
 
-## Contexte 
+## Contexte
 
 L'**obsolescence** est un sujet controversé dans le monde de l'informatique. En effet, d'un côté, les **avancées technologiques** sont telles qu'une nouveauté peut se faire éclipser par une autre en l'espace d'un instant. D'un autre côté, il existe des produits **robustes** qui ont su évoluer avec leur temps. Ces produits dits "robustes" ne sont cependant pas à l'abri d'un **arrêt de production** si l'entreprise n'en trouve plus l'utilité.
 
@@ -35,7 +35,7 @@ Le projet à été versionné via le **GitLab** de l'entreprise, RedLab.
 
 Durant ce projet j'ai pu développer mes compétences en **C** mais aussi en **microélectronique**.
 
-J'ai notamment dû : 
+J'ai notamment dû :
 - Développer du bas niveau, savoir s’interfacer avec une machine en C.
 - Optimiser la gestion de la mémoire ainsi que le fonctionnement du code.
 - Concevoir en prenant en compte les contraintes logicielles mais aussi les contraintes matérielles.
