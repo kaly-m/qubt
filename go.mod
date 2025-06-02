@@ -1,4 +1,4 @@
-module github.com/kaly-m/qubt
+module github.com/kaly-m/portfolio
 
 go 1.23.4
 

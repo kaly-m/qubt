@@ -44,5 +44,3 @@ J'ai notamment dû :
 - Appréhender un environnement électronique ainsi que souder des composants sur une carte.
 
  Ce projet fut très enrichissant de par les nombreuses compétences abordées. En effet, deux perspectives métiers ont été abordées durant ces 10 semaines ainsi qu'une toute nouvelle technologie pour ma part : STM32.
-
- **Apprentissages critiques :** (A faire)

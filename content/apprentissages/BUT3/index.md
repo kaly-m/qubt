@@ -4,7 +4,6 @@ summary: "Cette Page vise à présenter le niveau d'apprentissage atteint en fin
 
 date: 2025-09-01
 cardimage: three.jpg
-toc: true
 ---
 
 # Prochainement..
