@@ -58,7 +58,7 @@ Je suis consciencieux quant à mon impact environnemental. Je n'utilise que trè
 
 ### AC1 : Optimiser les modèles de données de l’entreprise
 **Niveau :** En cours d'acquisition\
-**Traces :**
+**Trace :**
 Cette compétence à été principalement travaillée lors des tds de base de données. Nous avons pu travailler de nombreux points dont :
 - Normalisation des données (Forme normales, BCNF)
 - Création d'indexes
@@ -71,21 +71,24 @@ Cette compétence à été principalement travaillée lors des tds de base de do
 
 ### AC2 : Assurer la confidentialité des données (intégrité et sécurité)
 **Niveau :** Acquis\
-**Projets en relation :** [Voteomatic](../../projets/voteomatic)
+**Projets en relation :** [Voteomatic](../../projets/voteomatic)\
 **Trace :**
-Cette compétence à été travaillée lors de la conception de l'application Voteomatic. En effet, cette application traitait des données personnelles des utilisateurs possédant un compte. Il a donc fallu anonymiser les données pour éviter toute violation de confidentialité et par la même occasion du RGPD.
+Cette apprentissage à été travaillé lors de la conception de l'application Voteomatic. En effet, cette application traite des données personnelles des utilisateurs possédant un compte. Il a donc fallu anonymiser les données pour éviter toute violation de confidentialité et par la même occasion du RGPD.
 ![intégrité des données](./preuves/integrite-donnees.png)
 On observe ici les données concernant les utilisateurs qui sont anonymisées à l'aide d'une fonction de hachage. Cette capture d'écran est issue de la base de données de l'application, l'administrateur n'a donc pas directement accès aux données utilisateur.
 
 ### AC3 : Organiser la restitution de données à travers la programmation et la visualisation
 **Niveau :** Acquis\
-**Trace :**
-// parler des requêtes php ?
+**Projets en relation :** [Voteomatic](../../projets/voteomatic)\
+**Traces :**
+![requete php](./preuves/requete.png)
+On observe ici la récupération de données depuis l'application en interrogeant la base de données. Ces données vont servir par la suite à gérer les actions à effectuer au sein même de l'application. Toute cette démarche s'inscrit dans l'apprentissage critique d'organiser un restitution de données au travers de la programmation.
 
 ### AC4 : Manipuler des données hétérogènes
-**Niveau :** Acquis\
+**Niveau :** En cours d'acquisition\
+**Projets en relation :** [Voteomatic](../../projets/voteomatic), [NeufCord](../../projets/neufcord)\
 **Trace :**
-// TODO
+Cet apprentissage critique à été abordé sous différents angles lors de projets comme le serveur NeufCord ou encore l'application Voteomatic. Des données multiples et variées ont été manipulées que ce soit du traitement de texte, des objets au format JSON ou encore des octets récupérés un à un pour identifier un signal.
 
 ## Compétence n°5 : Conduire un projet
 
